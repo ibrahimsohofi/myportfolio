@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React, Tailwind CSS, and Framer Motion.
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](https://iad.microlink.io/Bs2CdxaX93us0bwGxuVb-muxpCZSz_xkF6ezYI7JiGTNn0GM0q8G4MEFYmn7ajU5kpjOPygCnrCfq6t0BMIQcw.png)
 
 ## Features
 
