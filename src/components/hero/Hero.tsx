@@ -119,9 +119,9 @@ const Hero = () => {
         >
           <div className="relative w-full h-full flex items-center justify-center">
             <motion.img
-              src="/images/professional-man.png"
+              src="/images/businessman.svg"
               alt="Professional Developer"
-              className="h-full object-contain z-10 drop-shadow-2xl"
+              className="h-full object-cover z-10 drop-shadow-2xl"
               initial={{ scale: 0.8 }}
               animate={{ scale: 1 }}
               transition={{ duration: 0.5, delay: 0.8 }}
